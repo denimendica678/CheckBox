@@ -1,0 +1,10 @@
+C:\Users\denim\source\repos\checkBoxKontrola\checkBoxKontrola\bin\Debug\checkBoxKontrola.exe.config
+C:\Users\denim\source\repos\checkBoxKontrola\checkBoxKontrola\bin\Debug\checkBoxKontrola.exe
+C:\Users\denim\source\repos\checkBoxKontrola\checkBoxKontrola\bin\Debug\checkBoxKontrola.pdb
+C:\Users\denim\source\repos\checkBoxKontrola\checkBoxKontrola\obj\Debug\checkBoxKontrola.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\checkBoxKontrola\checkBoxKontrola\obj\Debug\checkBoxKontrola.Form1.resources
+C:\Users\denim\source\repos\checkBoxKontrola\checkBoxKontrola\obj\Debug\checkBoxKontrola.Properties.Resources.resources
+C:\Users\denim\source\repos\checkBoxKontrola\checkBoxKontrola\obj\Debug\checkBoxKontrola.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\checkBoxKontrola\checkBoxKontrola\obj\Debug\checkBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\checkBoxKontrola\checkBoxKontrola\obj\Debug\checkBoxKontrola.exe
+C:\Users\denim\source\repos\checkBoxKontrola\checkBoxKontrola\obj\Debug\checkBoxKontrola.pdb
